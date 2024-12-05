@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/64646f21-58c9-437c-94a0-6aab2ebf5993
+
 #astrogpt
 Project: AstroGPT - Your Celestial Companion
 🌠 Overview: AstroGPT is a groundbreaking application that bridges ancient wisdom with modern technology. Utilizing Flask, Python, and robust API integrations, AstroGPT provides insightful responses related to astrology and numerology.
