@@ -1,6 +1,8 @@
 
 
-https://github.com/user-attachments/assets/273ea312-d8e2-41f4-a0e8-ab602c2a383
+https://github.com/user-attachments/assets/4bb09dd1-7d0b-4690-be6a-3faec3c1afb6
+
+
 
 #astrogpt
 Project: AstroGPT - Your Celestial Companion
